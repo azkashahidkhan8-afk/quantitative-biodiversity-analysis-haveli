@@ -1,4 +1,3 @@
-# quantitative-biodiversity-analysis-haveli
 # Quantitative Analysis of Biodiversity in Haveli District, AJK, Pakistan
 
 ## 📊 Project Overview
