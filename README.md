@@ -1,5 +1,5 @@
 Biodiversity Assessment and Quantitative Analysis
-
+ 
 Biodiversity was assessed using species-level field observations collected through the point-count method across different habitat types in Haveli District, AJK, Pakistan.
 
 The quantitative analysis included:
