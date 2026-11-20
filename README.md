@@ -1,15 +1,17 @@
-# Quantitative Analysis of Biodiversity in Haveli District, AJK, Pakistan
+Biodiversity Assessment and Quantitative Analysis
 
-## 📊 Project Overview
-This repository hosts the data analysis structures, diversity indexes, and presentation frameworks for my Bachelor of Science (BS) thesis completed at the Institute of Zoology, University of the Punjab. The research focuses on the quantitative mapping and mathematical profiling of vertebrate species across ten distinct high-altitude ecological habitats.
+Biodiversity was assessed using species-level field observations collected through the point-count method across different habitat types in Haveli District, AJK, Pakistan.
 
-## 🛠️ Statistical Methods & Data Analysis
-* **Population Abundance Modeling:** Processed point-count datasets tracking 493 specific vertebrate individuals representing 58 distinct species across 32 families.
-* **Mathematical Diversity Modeling:** Formulated and calculated ecological distribution matrices:
-  * **Shannon-Weiner Diversity Index:** achieved a whole-area diversity value of \(H' = 3.818\)
-  * **Simpson's Diversity Index:** achieved a whole-area dominance value of \(D = 0.973\)
-  * **Species Evenness:** calculated at \(0.213\)
-* **Community Similarity Matrices:** Applied **Sorensen's Indices** and **Jaccard Indices** to map overlapping species habitats and evaluate ecosystem similarities mathematically.
+The quantitative analysis included:
 
-## 📁 Repository Contents
-* `BS_Biodiversity_Defense_Presentation.pptx`: The visual slide framework utilized during my graduation defense.
+Shannon–Wiener Diversity Index (H′): Used to assess species diversity within the study area.
+
+Simpson’s Diversity Index (D): Used to evaluate species diversity and dominance.
+
+Species Evenness: Used to examine how individuals were distributed among recorded species.
+
+Sørensen Similarity Index: Used to compare species composition between habitat types.
+
+Jaccard Similarity Index: Used to assess species overlap and similarity between habitats.
+
+Microsoft Excel was used to organize, tabulate and analyze the biodiversity data and present the findings.
